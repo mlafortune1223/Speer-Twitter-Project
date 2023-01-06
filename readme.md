@@ -6,4 +6,4 @@ For connecting to the MongoDB you can do either:
 ####
 To spin up server run node index.js
 ####
-To run tests run yarn test# Speer-Twitter-Project
+To run tests run yarn test
